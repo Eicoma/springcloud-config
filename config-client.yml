@@ -22,7 +22,8 @@ eureka:
 
 ---
 server:
-  port: 8202
+  port: 8203
+
   # Spring配置
 spring:
   profiles: test
